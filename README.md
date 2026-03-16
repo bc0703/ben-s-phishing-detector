@@ -4,7 +4,7 @@ A Rust-based desktop phishing detection tool with a dark-themed GUI that analyze
 
 ## Preview
 
-[Ben's Phishing Detector Main Window]
+[Main Window]
 <p align="center">
   <img src="ss/ben.png"" width="600">
 </p>
