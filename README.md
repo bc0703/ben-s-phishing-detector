@@ -19,6 +19,7 @@ A Rust-based desktop phishing detection tool with a dark-themed GUI that analyze
 
 - ## Run on Terminal
 Step 1: cargo build
+
 Step 2: cargo run
   
   It's that easy.
